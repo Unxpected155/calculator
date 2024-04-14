@@ -1,0 +1,12 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "dev": "npx serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
